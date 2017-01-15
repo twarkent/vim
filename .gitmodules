@@ -1,0 +1,3 @@
+[submodule "bundle/ctrl.vim"]
+	path = bundle/ctrl.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
