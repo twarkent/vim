@@ -18,13 +18,13 @@
 	url = https://github.com/vim-airline/vim-airline
 [submodule "bundle/vim-airline-themes"]
 	path = bundle/vim-airline-themes
-	url = https://github.com/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
 [submodule "bundle/vim-bookmarks"]
 	path = bundle/vim-bookmarks
-	url = https://github.com/vim-bookmarks
+	url = https://github.com/MattesGroeger/vim-bookmarks
 [submodule "bundle/vim-easy-align"]
 	path = bundle/vim-easy-align
-	url = https://github.com/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align
 [submodule "bundle/vim-easytags"]
 	path = bundle/vim-easytags
 	url = https://github.com/xolox/vim-easytags
