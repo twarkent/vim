@@ -40,7 +40,7 @@ syn keyword verilogStatement   pulsestyle_onevent pulsestyle_ondetect
 syn keyword verilogStatement   rcmos real realtime ref reg release return
 syn keyword verilogStatement   rnmos rpmos rtran rtranif0 rtranif1
 syn keyword verilogStatement   scalared showcancelled signed small
-syn keyword verilogStatement   specify specparam static strong0 strong1 struct
+syn keyword verilogStatement   specify specparam static string strong0 strong1 struct
 syn keyword verilogStatement   super supply0 supply1 table task time tran
 syn keyword verilogStatement   tranif0 tranif1 tri tri0 tri1 triand
 syn keyword verilogStatement   trior trireg typedef union unique unsigned use vectored virtual void wait
